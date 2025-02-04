@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--czdemo7--aemdemos.hlx.live/blogs/
-- After: https://<branch>--czdemo7--aemdemos.hlx.live/blogs/
+- Before: https://main--czdemo7--aemdemos.aem.live/
+- After: https://main--czdemo7--aemdemos.aem.live/

@@ -1,9 +1,11 @@
 # czdemo7
-This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
+
+This is a project created by AEMY.
 
 ## Environments
-- Preview: https://main--czdemo7--aemdemos.hlx.page/blogs/
-- Live: https://main--czdemo7--aemdemos.hlx.live/blogs/
+
+- Preview: https://main--czdemo7--aemdemos.aem.page/
+- Live: https://main--czdemo7--aemdemos.aem.live/
 
 ## Installation
 
@@ -20,5 +22,5 @@ npm run lint
 ## Local development
 
 1. Install the [AEM CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/aem-cli`
-1. Start AEM Proxy: `aem up` (opens your browser at `http://localhost:3000/blogs/`)
+1. Start AEM Proxy: `aem up` (opens your browser at `http://localhost:3000/`)
 1. Open the `czdemo7` directory in your favorite IDE and start coding :)
